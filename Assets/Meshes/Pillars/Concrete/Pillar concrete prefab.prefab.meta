@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4be55bb34e555b246b235ddf2f3cc2ae
+labels:
+- Architecture
+- Environment
+- Pillar
+- Prop
+- Concrete
+- Metal
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

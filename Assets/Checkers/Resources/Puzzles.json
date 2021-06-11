@@ -1,0 +1,74 @@
+{
+  "Puzzles": [
+    {
+      "PuzzleId": 1,
+      "OptimalMoves": 4,
+      "WhitePositions": [ "c1", "c7", "b3" ],
+      "BlackPositions": [ "a1", "c1", "e3", "f5" ],
+      "CorrectSteps": [ "b2", "c3", "d4", "e5" ]
+    },
+    {
+      "PuzzleId": 2,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    },
+    {
+      "PuzzleId":3,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    },
+    {
+      "PuzzleId": 4,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    },
+    {
+      "PuzzleId": 5,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    },
+    {
+      "PuzzleId": 6,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    },
+    {
+      "PuzzleId": 7,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    },
+    {
+      "PuzzleId": 8,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    },
+    {
+      "PuzzleId": 9,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    },
+    {
+      "PuzzleId": 10,
+      "OptimalMoves": 3,
+      "WhitePositions": [ "b1", "d7", "g3" ],
+      "BlackPositions": [ "f2", "c1", "e3", "a5" ],
+      "CorrectSteps": [ "c3", "b2", "d4", "e5" ]
+    }
+  ]
+}

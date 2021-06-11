@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50821544f25a7604fa48cc7289f6b4e7, type: 3}
+  m_Name: Brazilian
+  m_EditorClassIdentifier: 
+  Type: 3
+  Label: Brazilian
+  Info: "This is Brazilian checkers.\nIt is played on an 8\xD78 chequered board with
+    12 pieces per side. The simple checkers can move and capture forward and backward.
+    A piece is crowned if it stops on the far edge of the board at the end of its
+    turn (that is, not if it reaches the edge but must then jump another piece backward).
+    Another piece is placed on top of it to mark it. Crown checkers can move freely
+    multiple steps in any direction and may jump over and hence capture an opponent
+    piece some distance away and choose where to stop afterwards, but must still
+    capture the maximum number of pieces possible. Requirement that the maximum number
+    of checkers be captured whenever a player has capturing options."
+  Preview: {fileID: 21300000, guid: cfadc9d3becf1a14a87dda4058d12587, type: 3}
+  Options:
+    IsReverseBoard: 0
+    DiagonalMoveRule: 1
+    BeatingRule: 0
+    BackBeatingRule: 0
+    ContinueBeatingLastRowRule: 1
