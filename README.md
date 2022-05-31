@@ -9,6 +9,8 @@ Customize your game as you wish and play against the AI or friends. Our game doe
 
 **Tech:** Unity, Blender
 
+#### Available at
+
 ***Playstore:*** 
 [Checkers](https://play.google.com/store/apps/details?id=com.MirzaKrnjic.Checkers)
 
