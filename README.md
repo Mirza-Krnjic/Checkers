@@ -18,6 +18,3 @@ Customize your game as you wish and play against the AI or friends. Our game doe
 
 <img src="https://mirzakrnjic.com/images/works/checkers2.jpeg" height="256"/>
 
-![](https://mirzakrnjic.com/images/works/checkers3.jpeg)
-
-![](https://mirzakrnjic.com/images/works/checkers2.jpeg)
