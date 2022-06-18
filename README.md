@@ -14,6 +14,10 @@ Customize your game as you wish and play against the AI or friends. Our game doe
 ***Playstore:*** 
 [Checkers](https://play.google.com/store/apps/details?id=com.MirzaKrnjic.Checkers)
 
+<img src="https://mirzakrnjic.com/images/works/checkers3.jpeg" height="256"/>
+
+<img src="https://mirzakrnjic.com/images/works/checkers2.jpeg" height="256"/>
+
 ![](https://mirzakrnjic.com/images/works/checkers3.jpeg)
 
 ![](https://mirzakrnjic.com/images/works/checkers2.jpeg)
