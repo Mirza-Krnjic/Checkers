@@ -1,4 +1,4 @@
-## Checkers
+## Checkers (⚠️depreciated⚠️)
 
 Checkers is a free to play ad-free mobile game. 
 
@@ -14,7 +14,7 @@ Customize your game as you wish and play against the AI or friends. Our game doe
 ***Playstore:*** 
 [Checkers](https://play.google.com/store/apps/details?id=com.MirzaKrnjic.Checkers)
 
-<img src="https://mirzakrnjic.com/images/works/checkers3.jpeg" height="256"/>
+<img src="https://mirzakrnjic.com/images/works/checkers3.webp" height="256"/>
 
-<img src="https://mirzakrnjic.com/images/works/checkers2.jpeg" height="256"/>
+<img src="https://mirzakrnjic.com/images/works/checkers2.webp" height="256"/>
 
